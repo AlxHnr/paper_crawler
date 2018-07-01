@@ -5,7 +5,7 @@ the mouse to the borders of the window to scroll trough the world. Press 1
 to focus on crawler number one. Press space to focus on the center of the
 world.
 
-**Note**: This simulation is single-threaded and it can take up to 25
+**Note**: This simulation is single-threaded and it can take up to 50
 minutes to get to a reasonable population.
 
 ## Building
